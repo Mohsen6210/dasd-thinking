@@ -3,22 +3,23 @@ Reasoning</h1>
 <img src="assets/logo.png" alt="Ali" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DASD--Thinking-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking)&#160;
-<a href="https://arxiv.org/abs/2511.xx" target="_blank"><img src="https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv" height="21px"></a>
-
+[![GitHub](https://img.shields.io/badge/GitHub-Technical--Report-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf)&#160;
 
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--4B--Thinking-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking)&#160;
 [![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--4B--Thinking-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking)&#160;
 
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://huggingface.co/Alibaba-Apsara/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview)&#160;
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview)&#160;
 [![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--30B--A3B--Thinking--Preview-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview)&#160;
 
 
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b-red)](https://huggingface.co/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)&#160;
-[![ModelScope Model](https://img.shields.io/badge/🤖%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b-124aff)](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)&#160;
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b-red)](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)&#160;
+[![ModelScope Model](https://img.shields.io/badge/🤖%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b-124aff)](https://www.modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)&#160;
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b--Logprob-red)](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b-Logprob)&#160;
+[![ModelScope Model](https://img.shields.io/badge/🤖%20Dataset-Superior--Reasoning--SFT--gpt--oss--120b--Logprob-124aff)](https://www.modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b-Logprob)&#160;
 
 
 ## Distribution-Aligned Sequence Distillation
@@ -37,7 +38,7 @@ There are different variants:
 
 
 *   **[2026-1-14]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Github](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf).
-*   **[2026-1-14]** 🔥 **SFT Dataset is released!** We have released the stage1 and stage2 datasets on [Hugging Face](https://huggingface.co/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b) and [ModelScope](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b).
+*   **[2026-1-14]** 🔥 **SFT Dataset is released!** We have released the stage1 and stage2 datasets on [Hugging Face](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b) and [ModelScope](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b).
 *   **[2026-1-14]** 🔥 **DASD-30B-A3B-Thinking-Preview Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview).
 *   **[2026-1-14]** 🔥 **DASD-4B-Thinking Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking).
 
@@ -47,7 +48,7 @@ There are different variants:
 | Model | Hugging Face | ModelScope |
 | :-- | :-- | :-- |
 | DASD-4B-Thinking | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint%20-DASD--4B--Thinking-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) | [![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--4B--Thinking-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking)|
-| DASD-30B-A3B-Thinking-Preview | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://huggingface.co/Alibaba-Apsara/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) | [![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--30B--A3B--Thinking--Preview-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
+| DASD-30B-A3B-Thinking-Preview | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) | [![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--30B--A3B--Thinking--Preview-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
 | DASD-30B-A3B-Thinking | *To be released* | *To be released* |
 
 
@@ -201,15 +202,6 @@ We utilize [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) framework f
    - The config file contains all necessary hyperparameters and training settings.
 
 
-<!-- 
-## 🚀 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-MAI/Z-Image&type=date&legend=top-left)](https://www.star-history.com/#Tongyi-MAI/Z-Image&type=date&legend=top-left) -->
-
-
-
-
-
 ## 📜 Citation
 
 If you find our work useful in your research, please consider citing:
@@ -229,9 +221,4 @@ If you find our work useful in your research, please consider citing:
   year={2025}
 }
 ```
-
-<!-- ## 🤝 We're Hiring!
-
-We're actively looking for **Research Scientists**, **Engineers**, and **Interns** to work on foundational generative models and their applications. Interested candidates please send your resume to: **** -->
-
 
