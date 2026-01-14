@@ -1,6 +1,6 @@
 <h1 align="center"> Distribution-Aligned Sequence Distillation for Superior Long-CoT
 Reasoning</h1>
-<img src="assets/logo.png" alt="Ali" style="height: 1.2em; vertical-align: middle; margin-right: 0.4em;">
+<img src="assets/logo.png" alt="Ali" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DASD--Thinking-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking)&#160;
 <a href="https://arxiv.org/abs/2511.xx" target="_blank"><img src="https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv" height="21px"></a>
@@ -36,10 +36,10 @@ There are different variants:
 # 📣 News
 
 
-*   **[2026-1-13]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Github](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf).
-*   **[2026-1-13]** 🔥 **SFT Dataset is released!** We have released the stage1 and stage2 datasets on [Hugging Face](https://huggingface.co/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b) and [ModelScope](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b).
-*   **[2026-1-13]** 🔥 **DASD-30B-A3B-Thinking-Preview Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview).
-*   **[2026-1-13]** 🔥 **DASD-4B-Thinking Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking).
+*   **[2026-1-14]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Github](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf).
+*   **[2026-1-14]** 🔥 **SFT Dataset is released!** We have released the stage1 and stage2 datasets on [Hugging Face](https://huggingface.co/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b) and [ModelScope](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b).
+*   **[2026-1-14]** 🔥 **DASD-30B-A3B-Thinking-Preview Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview).
+*   **[2026-1-14]** 🔥 **DASD-4B-Thinking Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking).
 
 
 ## 📥 Model Zoo
