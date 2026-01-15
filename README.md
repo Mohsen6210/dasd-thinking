@@ -3,7 +3,7 @@ Reasoning</h1>
 <img src="assets/logo.png" alt="Ali" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DASD--Thinking-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking)&#160;
-[![GitHub](https://img.shields.io/badge/GitHub-Technical--Report-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf)&#160;
+<a href="https://arxiv.org/abs/2601.09088" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>
 
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--4B--Thinking-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking)&#160;
@@ -37,6 +37,7 @@ There are different variants:
 # 📣 News
 
 
+*   **[2026-1-15]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Arxiv](https://arxiv.org/abs/2601.09088).
 *   **[2026-1-14]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Github](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf).
 *   **[2026-1-14]** 🔥 **SFT Dataset is released!** We have released the stage1 and stage2 datasets on [Hugging Face](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b) and [ModelScope](https://modelscope.cn/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b).
 *   **[2026-1-14]** 🔥 **DASD-30B-A3B-Thinking-Preview Model is released!** We have released the model checkpoint on [Hugging Face](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) and [ModelScope](https://modelscope.cn/models/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview).
@@ -207,11 +208,12 @@ We utilize [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) framework f
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@misc{yan2026dasd,
+@article{yan2026dasd,
   title={Distribution-Aligned Sequence Distillation for Superior Long-CoT Reasoning},
   author={Yan, Shaotian and Liu, Kaiyuan and Shen, Chen and Wang, Bing and Fan, Sinan and Zhang, Jun and Wu, Yue and Wang, Zheng and Ye, Jieping},
   year={2026},
-  url={https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf}
+  journal={arXiv preprint arXiv:2601.09088},
+  url={https://arxiv.org/abs/2601.09088}
 }
 
 @article{liu2025where,
